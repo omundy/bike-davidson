@@ -25,9 +25,9 @@ Check out this [map of no bike signs in Mecklenburg County](mecklenburg-no-bike-
 
 ### Current Information
 
-- This [map of 15 nature preserves](https://www.mecknc.gov/ParkandRec/Documents/brochure%20files/prk%20brochure%20nature.pdf) shows only one that allows any kind of cycling. See also this [list of nature preserves](https://www.mecknc.gov/ParkandRec/StewardshipServices/Pages/Nature-Preserve-Information.aspx)
-- This [map shows 34 community and regional parks and 5 public golf facilities](https://www.mecknc.gov/ParkandRec/Documents/brochure%20files/prk%20brochure%20parks.pdf). **Only 3 of these parks have mountain bike Trails**: [Jetton Park](https://www.mtbproject.com/trail/7015390/jetton-park-mountain-bike-trail) (1 mile), [Colonel Francis Beatty Park](https://www.mtbproject.com/directory/8015505/colonel-francis-beatty-park) (12 miles), and [North Mecklenburg Park](https://www.mtbproject.com/trail/956695/north-mecklenburg) (2.9 miles)
-- For another view of the support, compare this ["biking" page](https://www.mecknc.gov/ParkandRec/StewardshipServices/Outdoors/Pages/Biking.aspx) which lists again this small quantity. Note, all of these also allow hiking. While the hiking page on their site lists several massive properties. Most of these ban bikes.
+- Only one out of [15 nature preserves](https://www.mecknc.gov/ParkandRec/Documents/brochure%20files/prk%20brochure%20nature.pdf) allows any kind of cycling. See also this [list of nature preserves](https://www.mecknc.gov/ParkandRec/StewardshipServices/Pages/Nature-Preserve-Information.aspx)
+- Only 3 parks out of [34 community and regional parks](https://www.mecknc.gov/ParkandRec/Documents/brochure%20files/prk%20brochure%20parks.pdf) have mountain bike Trails. That link shows 5 public golf facilities, while the cycling trails total just under 16 miles: [Jetton Park](https://www.mtbproject.com/trail/7015390/jetton-park-mountain-bike-trail) (1 mile), [Colonel Francis Beatty Park](https://www.mtbproject.com/directory/8015505/colonel-francis-beatty-park) (12 miles), and [North Mecklenburg Park](https://www.mtbproject.com/trail/956695/north-mecklenburg) (2.9 miles)
+- For another view of the inequity, compare their ["biking" page](https://www.mecknc.gov/ParkandRec/StewardshipServices/Outdoors/Pages/Biking.aspx) (all of these also allow hiking) listing this small quantity with the several massive properties on the hiking page.
 
 
 
