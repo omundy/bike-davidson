@@ -87,6 +87,26 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "cross",
+        "name": "Latta Nature Preserve",
+        "info": "...16 miles of trails offering hikers, nature enthusiasts, and horseback riders the opportunity to explore a variety of terrain while enjoying scenic views of the lake, forests, and streams. It is the only Mecklenburg property open to horseback riding. Bicycles are permitted ONLY on paved roads within the preserve",
+        "url": "https://www.mecknc.gov/ParkandRec/StewardshipServices/Documents/Latta%20NP%20Brochure%202015.pdf",
+        "acres": 1471.55,
+        "organization": "Mecklenburg County Park & Recreation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.92005729675293,
+          35.37325213262134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
         "name": "Buckeye Cove Nature Preserve",
         "info": "a.k.a Stephens Road Nature Preserve",
         "url": "https://www.mecknc.gov/ParkandRec/StewardshipServices/Pages/Nature-Preserves.aspx",
@@ -118,6 +138,46 @@
         "coordinates": [
           -80.94696521759033,
           35.38584866238505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "marker",
+        "name": "Future site of Eastfield Park",
+        "info": " ",
+        "url": "https://publicinput.com/Eastfield",
+        "acres": 114,
+        "organization": "Mecklenburg County Park & Recreation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.77564716339111,
+          35.39239982986329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "McDowell Nature Preserve",
+        "info": "8 miles of trails offering hikers and nature enthusiasts the opportunity to explore a variety of terrain while enjoying scenic views of the lake, forests, and streams. Bikes are permited ONLY on paved roads within the preserve",
+        "url": "https://www.mecknc.gov/ParkandRec/StewardshipServices/Outdoors/SiteAssets/Pages/Hiking/2018%20McDowell%20Map.pdf",
+        "acres": 1130,
+        "organization": "Mecklenburg County Park & Recreation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0252857208252,
+          35.10449707204737
         ]
       }
     }
