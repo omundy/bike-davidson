@@ -13,14 +13,12 @@
 
 
 ### Group Rides
-https://www.weeklyrides.com/index.php/all-rides
-http://www.rockyriverroadclub.org/pbmc-ride.html
-http://www.rockyriverroadclub.org/recurring-rides.html
+[weeklyrides.com](https://www.weeklyrides.com/index.php/all-rides)
+Rocky River Club [rides](http://www.rockyriverroadclub.org/recurring-rides.html) and [annual Polar Beer Ride](http://www.rockyriverroadclub.org/pbmc-ride.html)
 https://www.facebook.com/groups/spiritedcyclistcyclingclub/
 
 ### Shops
-https://www.thecyclepath.net/
-
+[The Cyclepath](https://www.thecyclepath.net/)
 
 
 
@@ -28,9 +26,10 @@ https://www.thecyclepath.net/
 
 ## Bike Education
 
-https://commoncycle.org/resources/
-https://commoncycle.org/syllabus/
+commoncycle.org [resources](https://commoncycle.org/resources/) and [syllabus](https://commoncycle.org/syllabus/)
 https://bikeeastbay.org/tips/
+
+
 
 
 
