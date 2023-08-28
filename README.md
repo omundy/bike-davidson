@@ -4,20 +4,21 @@
 
 ## Cycling in and around Davidson, NC
 
-Clubs
-http://www.tarheeltrailblazers.com/
-http://www.rockyriverroadclub.org/
+### Clubs
+[Tarheel Trailblazers](http://www.tarheeltrailblazers.com/)
+[Rocky River Road Club](http://www.rockyriverroadclub.org/)
 
-Trails
-https://www.mtbproject.com/trail/3624301/fisher-farm-full-loop
+### Trails
+[Fisher Farm / Cedar Valley](https://www.mtbproject.com/trail/3624301/fisher-farm-full-loop)
 
-Group Rides
+
+### Group Rides
 https://www.weeklyrides.com/index.php/all-rides
 http://www.rockyriverroadclub.org/pbmc-ride.html
 http://www.rockyriverroadclub.org/recurring-rides.html
 https://www.facebook.com/groups/spiritedcyclistcyclingclub/
 
-Shops
+### Shops
 https://www.thecyclepath.net/
 
 
@@ -29,6 +30,7 @@ https://www.thecyclepath.net/
 
 https://commoncycle.org/resources/
 https://commoncycle.org/syllabus/
+https://bikeeastbay.org/tips/
 
 
 
